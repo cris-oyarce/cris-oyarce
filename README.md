@@ -26,13 +26,14 @@
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg"></code>
+<code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/React-icon.svg.png?raw=true"></code>
+<code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/flutter-logo-5086DD11C5-seeklogo.com.png?raw=true"></code>
+<code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/nodejs-logo-FBE122E377-seeklogo.com.png?raw=true"></code>
+<code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/ISO_C++_Logo.svg.png?raw=true"></code>
+<code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/HTML5_logo_and_wordmark.svg.png?raw=true"></code>
+<code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/Python-logo-notext.svg.png?raw=true"></code>
+<code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/c-sharp-c-icon-1822x2048-wuf3ijab.png?raw=true"></code>
+<code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/descarga.png?raw=true"></code>
 
 
 <!-- Usable once I add a little portfolio on this account 
