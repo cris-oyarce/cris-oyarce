@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-𝗙𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝘁𝗲𝗰𝗵𝘀 | 𝗥𝗲𝗮𝗰𝘁 | 𝗡𝗼𝗱𝗲.𝗷𝘀 | 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 ||
+𝗙𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝘁𝗲𝗰𝗵 | 𝗥𝗲𝗮𝗰𝘁 | 𝗡𝗼𝗱𝗲.𝗷𝘀 | 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 ||
 
 ## ୨୧ About :
    5th (and last) year Software Engineer student. I have used C++ and Phyton most of my life (pre-joining university), but in recent years I have mostly worked with GCP, React.js and Flutter (Dart).
