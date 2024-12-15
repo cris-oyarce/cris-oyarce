@@ -17,14 +17,12 @@
    
 
 ## ੭੭ Personal/Academic Projects :
-   - Back-end developer at university project (Go)
    - Full-stack solo dev at local software to automate documentation process in an SME (C++ and Qt.)
    - Database developer at Solotech (SQL Oracle)
 
 ## ﹟ Personal stuff :
 - My interests regarding software development are mostly about learning new and innovative tech.
 - Currently working on game development as a side-hobbie as a programmer with other 2 people.
-- Aside from software development, I'm a vivid art follower and creator.
 
 **Languages and Tools:**  
 
