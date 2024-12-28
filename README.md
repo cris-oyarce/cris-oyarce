@@ -33,7 +33,6 @@
 <code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/HTML5_logo_and_wordmark.svg.png?raw=true"></code>
 <code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/Python-logo-notext.svg.png?raw=true"></code>
 <code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/c-sharp-c-icon-1822x2048-wuf3ijab.png?raw=true"></code>
-<code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/descarga.png?raw=true"></code>
 
 
 <!-- Usable once I add a little portfolio on this account 
