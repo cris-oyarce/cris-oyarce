@@ -10,15 +10,13 @@
 𝗙𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝘁𝗲𝗰𝗵 | 𝗥𝗲𝗮𝗰𝘁 | 𝗡𝗼𝗱𝗲.𝗷𝘀 | 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 ||
 
 ## ୨୧ About :
-   5th (and last) year Software Engineer student. I have used C++ and Phyton most of my life (pre-joining university), but in recent years I have mostly worked with GCP, React.js and Flutter (Dart).
+   Software Engineer. I have used C++, Phyton and PostgreSQL most of my life, but in recent times I have mostly worked with React.js, Angular, Flutter and GCP.
    <br/>
-   **Currently searching for an internship to start building a professional career portfolio.**
 
-   
-
-## ੭੭ Personal/Academic Projects :
-   - Full-stack solo dev at local software to automate documentation process in an SME (C++ and Qt.)
-   - Database developer at Solotech (SQL Oracle)
+## ੭੭ Personal Projects :
+   - Developer at project Zofia (Angular, Ionic and Phyton)
+   - Solo dev at local software to automate documentation process in an SME (C++ and Qt.)
+   - Database developer at Solotech (PostgreSQL)
 
 ## ﹟ Personal stuff :
 - My interests regarding software development are mostly about learning new and innovative tech.
