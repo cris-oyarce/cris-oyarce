@@ -26,6 +26,7 @@
 
 **Languages and Tools:**  
 
+<code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/8e39ac906f54a41a01dfc71edc9c25550bd4a18b/angular.png?raw=true"></code>
 <code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/React-icon.svg.png?raw=true"></code>
 <code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/flutter-logo-5086DD11C5-seeklogo.com.png?raw=true"></code>
 <code><img height="50" src="https://github.com/cris-oyarce/cris-oyarce/blob/main/nodejs-logo-FBE122E377-seeklogo.com.png?raw=true"></code>
