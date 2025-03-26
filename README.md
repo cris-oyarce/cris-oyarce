@@ -12,8 +12,11 @@
 ## ୨୧ About :
    Software Engineer. I have used C++, Phyton and PostgreSQL most of my life, but in recent times I have mostly worked with React.js, Angular, Flutter and GCP.
    <br/>
+   <br/>
+   Currently working on a company that uses a self-hosted Git Repository, so no commits here until new notice!
+   <br/>
 
-## ੭੭ Personal Projects :
+## ੭੭ Projects :
    - Developer at project Zofia (Angular, Ionic and Phyton)
    - Solo dev at local software to automate documentation process in an SME (C++ and Qt.)
    - Database developer at Solotech (PostgreSQL)
