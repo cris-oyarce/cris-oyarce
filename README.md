@@ -14,6 +14,9 @@
    <br/>
    <br/>
    Currently working on a company that uses a self-hosted Git Repository, so no commits here until new notice!
+   This are the commits I've done in the past 2-3 months of work.
+   <br/>
+   <img src="https://github.com/cris-oyarce/cris-oyarce/blob/8d06593ba20547782268e1848d374ec2920b05a6/commits.png">
    <br/>
 
 ## ੭੭ Projects :
