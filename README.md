@@ -10,7 +10,7 @@
 𝗙𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝘁𝗲𝗰𝗵 | 𝗥𝗲𝗮𝗰𝘁 | 𝗡𝗼𝗱𝗲.𝗷𝘀 | 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 ||
 
 ## ୨୧ About :
-   Software Engineer. I have used C++, Phyton and PostgreSQL most of my life, but in recent times I have mostly worked with React.js, Angular, Flutter and GCP.
+   Software Engineer. I have used C++, Python and PostgreSQL most of my life, but in recent times I have mostly worked with React.js, Angular, Flutter and GCP.
    <br/>
    <br/>
    Currently working on a company that uses a self-hosted Git Repository, so no commits here until new notice!
